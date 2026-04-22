@@ -1,0 +1,2 @@
+Stock Price Predictor:
+Built a machine learning model to predict stock price trends using historical data. Performed data preprocessing, feature selection, and model training using Python (NumPy, Pandas, Scikit-learn), with visualization to analyze prediction accuracy.
